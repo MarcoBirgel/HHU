@@ -1,2 +1,2 @@
 # Übersicht
-Hier befindet sich eine Unterteilung in die einzelnen Semester.
+Hier befinden sich alle Inhalte des Studiums.
