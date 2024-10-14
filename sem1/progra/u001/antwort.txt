@@ -1,0 +1,8 @@
+cd /home/jinora/progra/Blatt01
+// Mit change directory gelange ich an den richtige Ort
+
+javac Hello.java
+// Damit kompiliert der Java Compiler die Datei Hello.java
+
+java Hello
+// Damit führe ich die kompilierte Datei Hello.class aus
